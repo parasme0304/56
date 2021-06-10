@@ -1,0 +1,14 @@
+body{
+text-align: center;
+    background-color: green;
+    color: black;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+}
+
+span{
+    display: inline-block;
+}
